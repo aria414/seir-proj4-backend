@@ -1,0 +1,49 @@
+[
+    {
+        "title": "The Road Goes Ever On and On",
+        "content": "Roads go ever ever on,\nOver rock and under tree,\nBy caves where never sun has shone,\nBy streams that never find the sea;\nOver snow by winter sown,\nAnd through the merry flowers of June,\nOver grass and over stone,\nAnd under mountains in the moon.\n\nRoads go ever ever on\nUnder cloud and under star,\nYet feet that wandering have gone\nTurn at last to home afar.\nEyes that fire and sword have seen\nAnd horror in the halls of stone\nLook at last on meadows green\nAnd trees and hills they long have known.",
+        "translation": "",
+        "citation": "J.R.R. Tolkien, The Lord of the Rings, The Fellowship of the Ring, A Long-expected Party",
+        "comment": "The Road Goes Ever On, also known as A Walking Song, is a walking song by J.R.R. Tolkien, fictionally written by Bilbo Baggins; verses of it are sung at various places in The Hobbit and The Lord of the Rings.",
+        "intextref": "At last Bilbo trusted Gandalf's judgement and released the ring, before leaving with three dwarves down the road and singing a song.",
+        "recitedby": "Bilbo Baggins",
+        "language": "English",
+        "bgimage": "https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+
+    {
+        "title": "Ring Verse",
+        "content": "Ash nazg durbatulûk,\nash nazg gimbatul,\nash nazg thrakatulûk,\nagh burzum-ishi krimpatul",
+        "translation": "Three Rings for the Elven-kings under the sky,\nSeven for the Dwarf-lords in their halls of stone,\nNine for Mortal Men doomed to die,\nOne for the Dark Lord on his dark throne\nIn the Land of Mordor where the Shadows lie.\nOne Ring to rule them all, One Ring to find them,\nOne Ring to bring them all, and in the darkness bind them,\nIn the Land of Mordor where the Shadows lie.",
+        "citation": "FOTR, Book 1, Chapter II, The Shadow of the Past",
+        "comment": "The Ring-inscription was a Black Speech inscription in Tengwar upon the One Ring, symbolising the Ring's power to control the other Rings of Power, and perhaps being an actual part of its power.",
+        "intextref": "After Sauron's first downfall, the One Ring normally appeared perfectly plain and featureless, but when heated in a fire, the inscription appeared in fiery letters on the Ring.",
+        "recitedby": "Sauron",
+        "language": "Mordor",
+        "bgimage": "https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+
+    {
+        "title": "Hymm to Elbereth",
+        "content": "A Elbereth Gilthoniel\nSilivren penna míriel\nO menel aglar elenath!\nNa-chaered palan-díriel\nO galadhremmin ennorath\nFanuilos, le linnathon\nNef aer, sí nef aearon!",
+        "translation": "O! Elbereth who lit the stars\nFrom glittering crystal slanting falls with light like jewels\nFrom heaven on high the glory of the starry host.\nTo lands remote I have looked afar,\nAnd now to thee, Fanuilos, bright spirit clothed in ever-white,\nI here will sing Beyond the Sea, beyond the wide and sundering Sea.",
+        "citation": "FOTR, Book 2, Chapter I, Many Meetings",
+        "comment": "A Elbereth Gilthoniel an aerlinn (poem) of Rivendell addressed to Varda, sung in Sindarin and in iambic tetrameter. The first stanza (the only one known) rhymes aababcc.",
+        "intextref": "...and as if in answer, from down below, coming up the road out of the valley, voices sang: —Frodo Baggins in The Return of the King, The Grey Havens",
+        "recitedby": "Company of Elves",
+        "language": "Sindarin",
+        "bgimage": "https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+
+    {
+        "title": "The Riddle of Strider",
+        "content": "All that is gold does not glitter,\nNot all those who wander are lost;\nThe old that is strong does not wither,\nDeep roots are not reached by the frost.\n\nFrom the ashes a fire shall be woken,\nA light from the shadows shall spring;\nRenewed shall be blade that was broken,\nThe crownless again shall be king.",
+        "translation": "",
+        "citation": "FOTR, Book 1, Chapter X, Strider",
+        "comment": "The Riddle of Strider is a poem by Bilbo Baggins in honour of Aragorn, written when Aragorn first revealed his true identity to Bilbo.",
+        "intextref": "The poem is first given in the letter left for Frodo by Gandalf in Bree. In that letter, it appears as part of a postscript reminding Frodo to make sure that the Strider he meets is the real Strider. The poem thus appears in that context as a means of identifying Aragorn.",
+        "recitedby": "Bilbo Baggins",
+        "language": "English",
+        "bgimage": "https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    }
+]
